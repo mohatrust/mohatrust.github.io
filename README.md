@@ -10,7 +10,8 @@
     ```ruby
       puts "Hello from Kenya"
     ```
-
+![This is an image](https://images.app.goo.gl/qc3QFMX9vdYqz7Rh9)
+    
 </p>
 </details>
 
