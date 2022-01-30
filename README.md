@@ -2,9 +2,6 @@
 
 
 
-<details><summary>CLICK ME</summary>
-<p>
-
 ![This is an image](https://images.app.goo.gl/qc3QFMX9vdYqz7Rh9)
 
 
